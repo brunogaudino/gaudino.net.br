@@ -1,0 +1,77 @@
+body{
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-weight: 400;
+  background-color: #00233B;
+  color:#ffffff;
+  font-size: 16px;
+  padding-top: 15px;
+}
+
+.main-div{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*
+.container-box{
+  background: #E4EE91;
+}
+
+.content-box{ 
+  background: #507701;
+}*/
+
+a{
+  color: #ffffff;
+  font-weight: 700;
+  border-bottom: 2px solid #ffffff;
+  transition: 0.9s ease-in;
+}
+
+a:hover,a:focus{
+  color: #3B8EC6;
+  border-bottom: 2px solid #3B8EC6;
+  transition: 0.5s ease-in;
+  text-decoration: none;
+}
+
+/* Backgrounds */
+/*
+.background-base-color{
+    background-color: #0070BB;
+}
+.background-base-dark-1{
+  background-color: #00233B;
+}
+
+.background-base-dark-2{
+  background-color: #122A3B;
+}
+
+.background-base-light-1{
+  background-color: #3B8EC6;
+}
+
+.background-base-light-2{
+  background-color: #005187;
+}
+*/
+.font-color-white{
+    color:#ffffff;
+} 
+
+.wrap-logo{
+  border: 5px solid #ffffff;
+  width: 210px;
+  text-align: center;
+  margin: 0px auto;
+}
+
+.wrap-logo img{
+  margin: 0px auto;
+}
+
+/*SOCIAL NETWORK*/
+ul.list-inline li a{
+  border-bottom: 0px;
+}
